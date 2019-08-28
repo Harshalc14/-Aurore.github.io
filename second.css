@@ -1,0 +1,29 @@
+body{
+
+	background-image:url(https://c1.sfdcstatic.com/content/dam/blogs/ca/Blog%20Posts/The%20Most%20Important%20Factors%20for%20Startup%20Success_Open%20Graph%20Image.png );
+     }
+.first{
+	font-family: 'Luckiest Guy', cursive;
+	color:white;
+	font-size: 60px;
+}
+.second{
+	color:white;
+	font-size:40px;
+	font-family: 'Special Elite', cursive;
+}
+  .btn {
+  font-weight: 700;
+  text-transform: small-caps;
+  border-radius: 300px;
+   font-family: 'Monoton', cursive;
+   opacity: 1;
+
+  }
+  .btn-lg {
+  padding: 1rem 2rem; 
+}
+ .three
+ {
+ 	text-align: center;
+ }
