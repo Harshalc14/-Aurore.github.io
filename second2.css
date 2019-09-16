@@ -1,0 +1,166 @@
+ 
+
+
+body {
+	background: url(aurore.png) no-repeat ;
+	background-size: cover;
+	height: 100%;
+	background-color: black;
+
+	     
+}
+
+a{
+	color:#ffffff;
+}
+
+.slideDown{
+    
+    position: fixed;
+    width:100vw;
+    display:flex;
+    justify-content:center; 
+	cursor: context-menu;
+	
+	color:white;
+	font-family:'Permanant marker',cursive;     
+	font-size:80px;
+	text-align: center;  
+	  }
+
+.two
+{
+    position:fixed;
+    width:100vw;
+    padding-top:110px;
+    justify-content: center;
+	cursor: context-menu;
+	color:white;
+	font-family: 'Montez', cursive;
+	font-size:30px;
+	text-align:center;
+	margin-left: 170px;
+}
+.three{
+	  
+	 padding-top:80px;
+	line-height: 4px;
+}
+
+.nav-item
+{
+	cursor: pointer;
+	font-size:20px;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+
+}
+.four{
+    
+    padding-left:40vw ;
+    position:fixed;
+    width:100vw;
+    display:flex;
+    justify-content: center;   
+    cursor: context-menu;
+	color:white;
+	font-family: 'Montez', cursive;
+	font-size:30px;
+	text-align:center;
+}
+.container
+
+{
+    padding-top: 200px;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+}
+
+#circle {
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	background-image: linear-gradient(to bottom left, #ffc266, #fff5e6);
+	width: 210px;
+	height: 210px;
+	border-radius: 50%;   
+}
+
+.container
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	transition:  1s linear;
+	 
+}
+
+.container:hover{
+
+transform: translate(-340px,560px) scale(0.5,0.5) ;
+
+}
+
+
+.btn {
+
+	color:white;
+	border:double; ;
+	border-radius: 45px;
+	border-color:white;
+	padding-left: 27px ;
+	padding-right: 32px;
+	font-size: 22px; 
+	cursor: pointer; 
+	font-variant: small-caps;
+	letter-spacing: 1px;
+}
+
+.fa{
+	margin-left: 30px;
+
+}
+.five{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center; 
+}
+
+.seven{
+	font-family: 'Montserrat', sans-serif;
+	color:white;
+	 font-size:25px;
+	  
+	 padding-top:100px;
+	 padding-left:250px;
+	 padding-right:250px;
+	 padding-bottom:100px;
+}
+
+ .zero
+ {
+ 	 position:fixed;
+ 	 width: 100vw;
+ 	 display: flex;
+ 	 justify-content: flex-end;
+
+ 	}
+
+ 	/*.container
+ 	{
+ 		animation-name:star;
+ 		animation-iteration-count: infinite;
+ 		animation-delay: 10s;
+ 	}
+ 	  @keyframes star{
+ 	  	from{
+ 	  	  transform: translate(50vw,50vw);
+ 	  	}
+ 	  	to{
+ 	  		transform:translate(-50px,100px);
+ 	  	}
+    }*/
+
+
+
